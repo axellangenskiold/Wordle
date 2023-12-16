@@ -39,7 +39,7 @@ public class WordlePanel extends JPanel {
         JPanel outPanel = new JPanel();
         outPanel.setBackground(DEFAULT);
         outPanel.add(java.awt.BorderLayout.CENTER, this);
-        frame.add(outPanel);
+        frame.add(java.awt.BorderLayout.CENTER, outPanel);
     }
 
     public Box getCurrentBox() {

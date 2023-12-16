@@ -48,11 +48,6 @@ public class Model extends Observable{
         return currentWord.getWord();
     }
 
-    //returns boolean if Word at index i contains the String letter (which i always one letter) 
-    // private boolean containsChar(String letter, int i) {
-    //     return lines[i].contains(letter);
-    // }
-
     //when key is pressed, this function choses what to do
     public void pressed(KeyEvent e) {
         if (e.getKeyCode() == KeyEvent.VK_BACK_SPACE) {
@@ -73,11 +68,11 @@ public class Model extends Observable{
         System.out.println("beginning of pressed" + c);
 
         
-        if (s.equals("DELETE")) {
+        if (s.equals("|DELETE|")) {
             delete();
-        } else if (s.equals("ENTER")) {
+        } else if (s.equals("|ENTER|")) {
             execute();
-        } else if (c >= 'a' && c <= 'z') {
+        } else if (c >= 'A' && c <= 'Z') {
             addLetter(Character.toString(c));
         }
 
@@ -172,6 +167,7 @@ public class Model extends Observable{
             currentWord = lines[index];
             currentLetter = 0;
         } else {
+            wasWin = currentWord.isCorrect;
             setChanged();
             gameOver();
         }
