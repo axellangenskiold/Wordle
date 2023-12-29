@@ -244,8 +244,13 @@ public class Model extends Observable{
     //for GUI, if any letter in currentWord is in the correct word
     //the alphabet updates
     public void updateAlphabet() {
-        for (char c : currentWord.getWord().toCharArray()) {
-            alphabetStatus.put(c, 1);
+        for (int i = 0; i < correctWord.length(); i++) {
+            char c = currentWord.getWord().charAt(i);
+            if (correctWord.contains(Character.toString(c))) {
+                alphabetStatus.put(c, 2);
+            } else {
+                alphabetStatus.put(c, 1);
+            }
         }
     }
 

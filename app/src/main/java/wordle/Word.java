@@ -92,6 +92,16 @@ public class Word {
         }
     }
 
+    //not used
+    public boolean isGreenStatus(String guess) {
+        for (int i = 0; i < word.length; i++) {
+            if (word[i].equals(guess) && status[i] == 2) {
+                return true;
+            }
+        }
+        return false;
+    }
+
     public int getStatus(int i) {
         return status[i];
     }

@@ -14,6 +14,8 @@ public class KeyBoardPanel extends JPanel {
 
     private static Color COLOR_USED = new Color(45,45,45);
     private static Color DEFAULT = new Color(100,100,100);
+    private static Color COLOR_YELLOW = new Color(220,220,0);
+    private static Color COLOR_GREEN = new Color(0, 180, 0);
 
     Model model;
 
@@ -93,10 +95,18 @@ public class KeyBoardPanel extends JPanel {
             for (Component c2 : jp.getComponents()) {
                 Key key = (Key) c2;
                 if (key.getTitle().length() <= 1) {
-                    if (model.alphabetStatus.get(key.getTitle().charAt(0)) == 1) {
-                        key.setBackground(COLOR_USED);
-                    } else {
-                        key.setBackground(DEFAULT);
+                    int status = model.alphabetStatus.get(key.getTitle().charAt(0));
+
+                    switch (status) {
+                        case 2:
+                            key.setBackground(COLOR_GREEN);
+                            break;
+                        case 1:
+                            key.setBackground(COLOR_USED);
+                            break;
+                        case 0:
+                            key.setBackground(DEFAULT);
+                            break;
                     }
                 }
             }
