@@ -102,9 +102,12 @@ public class KeyBoardPanel extends JPanel {
                             key.setBackground(COLOR_GREEN);
                             break;
                         case 1:
-                            key.setBackground(COLOR_USED);
+                            key.setBackground(COLOR_YELLOW);
                             break;
                         case 0:
+                            key.setBackground(COLOR_USED);
+                            break;
+                        case -1:
                             key.setBackground(DEFAULT);
                             break;
                     }

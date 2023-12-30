@@ -237,7 +237,7 @@ public class Model extends Observable{
     //sets up alphabet for GUI
     public void alphabetSetup() {
         for (char c = 'A'; c <= 'Z'; c++) {
-            alphabetStatus.put(c, 0);
+            alphabetStatus.put(c, -1);
         }
     }
 
@@ -246,10 +246,13 @@ public class Model extends Observable{
     public void updateAlphabet() {
         for (int i = 0; i < correctWord.length(); i++) {
             char c = currentWord.getWord().charAt(i);
-            if (correctWord.contains(Character.toString(c))) {
+            if (correctWord.charAt(i) == c) {
                 alphabetStatus.put(c, 2);
-            } else {
+            }
+            else if (correctWord.contains(Character.toString(c)) && alphabetStatus.get(c) != 2) {
                 alphabetStatus.put(c, 1);
+            } else if (alphabetStatus.get(c) != 2) {
+                alphabetStatus.put(c, 0);
             }
         }
     }
