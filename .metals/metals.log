@@ -1,0 +1,332 @@
+2024.01.08 22:16:30 INFO  Started: Metals version 1.2.0 in folders '/Users/axellangenskiold/Documents/personal-projects/wordle' for client Visual Studio Code 1.83.1.[0m
+2024.01.08 22:16:40 INFO  no build target found for /Users/axellangenskiold/Documents/personal-projects/wordle/app/src/main/java/wordle/GUI.java. Using presentation compiler with project's scala-library version: 3.3.1[0m
+2024.01.08 22:16:40 WARN  Build server is not auto-connectable.[0m
+2024.01.08 22:16:40 WARN  no build target for: /Users/axellangenskiold/Documents/personal-projects/wordle/app/src/main/java/wordle/WordlePanel.java[0m
+2024.01.08 22:16:40 WARN  no build target for: /Users/axellangenskiold/Documents/personal-projects/wordle/app/src/main/java/wordle/Model.java[0m
+2024.01.08 22:16:40 WARN  no build target for: /Users/axellangenskiold/Documents/personal-projects/wordle/app/src/main/java/wordle/GUI.java[0m
+2024.01.08 22:16:40 WARN  no build target for: /Users/axellangenskiold/Documents/personal-projects/wordle/app/src/main/java/wordle/KeyBoardPanel.java[0m
+2024.01.08 22:16:41 INFO  time: code lens generation in 1.21s[0m
+2024.01.08 22:16:42 INFO  time: code lens generation in 1.66s[0m
+jan. 08, 2024 10:16:43 EM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-08/r_compiler-error_22-16-43-208.md
+jan. 08, 2024 10:16:43 EM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-08/r_compiler-error_22-16-43-671.md
+jan. 08, 2024 10:16:44 EM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-08/r_compiler-error_22-16-44-399.md
+jan. 08, 2024 10:16:44 EM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-08/r_compiler-error_22-16-44-732.md
+jan. 08, 2024 10:16:45 EM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-08/r_compiler-error_22-16-45-020.md
+jan. 08, 2024 10:16:47 EM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-08/r_compiler-error_22-16-47-525.md
+jan. 08, 2024 10:17:03 EM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-08/r_compiler-error_22-17-03-723.md
+jan. 08, 2024 10:17:08 EM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-08/r_compiler-error_22-17-08-089.md
+jan. 08, 2024 10:17:10 EM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-08/r_compiler-error_22-17-10-452.md
+jan. 08, 2024 10:33:15 EM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-08/r_compiler-error_22-33-15-858.md
+jan. 08, 2024 10:33:18 EM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-08/r_compiler-error_22-33-18-413.md
+jan. 08, 2024 10:33:20 EM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-08/r_compiler-error_22-33-20-062.md
+2024.01.08 22:53:37 WARN  no build target for: /Users/axellangenskiold/Documents/personal-projects/wordle/app/src/main/java/wordle/Box.java[0m
+jan. 08, 2024 10:53:38 EM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-08/r_compiler-error_22-53-38-123.md
+jan. 08, 2024 10:53:38 EM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-08/r_compiler-error_22-53-38-740.md
+jan. 08, 2024 10:53:41 EM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-08/r_compiler-error_22-53-41-065.md
+jan. 08, 2024 10:53:56 EM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-08/r_compiler-error_22-53-56-391.md
+jan. 08, 2024 10:54:04 EM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-08/r_compiler-error_22-54-04-478.md
+jan. 08, 2024 10:54:05 EM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-08/r_compiler-error_22-54-05-182.md
+jan. 08, 2024 10:54:07 EM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-08/r_compiler-error_22-54-07-856.md
+jan. 08, 2024 10:54:19 EM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-08/r_compiler-error_22-54-19-474.md
+jan. 08, 2024 10:54:19 EM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-08/r_compiler-error_22-54-19-742.md
+jan. 08, 2024 10:54:20 EM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-08/r_compiler-error_22-54-20-940.md
+jan. 08, 2024 10:54:22 EM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-08/r_compiler-error_22-54-22-374.md
+jan. 08, 2024 10:54:23 EM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-08/r_compiler-error_22-54-23-155.md
+jan. 08, 2024 10:55:22 EM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-08/r_compiler-error_22-55-22-527.md
+jan. 08, 2024 10:55:25 EM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-08/r_compiler-error_22-55-25-559.md
+jan. 08, 2024 10:55:26 EM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-08/r_compiler-error_22-55-26-777.md
+jan. 08, 2024 10:55:33 EM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-08/r_compiler-error_22-55-33-711.md
+jan. 08, 2024 10:55:42 EM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-08/r_compiler-error_22-55-42-239.md
+jan. 08, 2024 10:58:24 EM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-08/r_compiler-error_22-58-24-372.md
+jan. 08, 2024 10:59:25 EM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-08/r_compiler-error_22-59-25-563.md
+jan. 08, 2024 10:59:26 EM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-08/r_compiler-error_22-59-26-279.md
+jan. 08, 2024 10:59:26 EM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-08/r_compiler-error_22-59-26-596.md
+jan. 08, 2024 10:59:32 EM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-08/r_compiler-error_22-59-32-792.md
+jan. 09, 2024 8:43:19 FM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-09/r_compiler-error_08-43-19-522.md
+jan. 10, 2024 7:27:22 FM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-10/r_compiler-error_07-27-22-826.md
+jan. 10, 2024 7:30:10 FM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-10/r_compiler-error_07-30-10-694.md
+jan. 14, 2024 10:47:05 EM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-14/r_compiler-error_22-47-05-841.md
+jan. 14, 2024 11:01:38 EM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-14/r_compiler-error_23-01-38-756.md
+jan. 14, 2024 11:01:39 EM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-14/r_compiler-error_23-01-39-052.md
+jan. 15, 2024 11:22:32 FM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-15/r_compiler-error_11-22-32-198.md
+2024.01.15 11:22:33 WARN  no build target for: /Users/axellangenskiold/Documents/personal-projects/wordle/app/src/main/java/wordle/Word.java[0m
+jan. 15, 2024 11:22:33 FM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-15/r_compiler-error_11-22-33-804.md
+jan. 15, 2024 11:22:34 FM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-15/r_compiler-error_11-22-34-380.md
+jan. 15, 2024 11:22:36 FM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-15/r_compiler-error_11-22-36-992.md
+2024.01.15 11:22:45 WARN  no build target for: /Users/axellangenskiold/Documents/personal-projects/wordle/app/src/main/java/wordle/MessegeBar.java[0m
+jan. 15, 2024 11:22:45 FM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-15/r_compiler-error_11-22-45-964.md
+jan. 15, 2024 11:22:46 FM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-15/r_compiler-error_11-22-46-543.md
+jan. 15, 2024 11:22:51 FM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-15/r_compiler-error_11-22-51-838.md
+jan. 15, 2024 11:23:08 FM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-15/r_compiler-error_11-23-08-855.md
+jan. 15, 2024 11:23:17 FM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-15/r_compiler-error_11-23-17-408.md
+jan. 15, 2024 11:23:17 FM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-15/r_compiler-error_11-23-17-745.md
+jan. 15, 2024 11:23:17 FM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-15/r_compiler-error_11-23-17-865.md
+jan. 15, 2024 11:23:48 FM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-15/r_compiler-error_11-23-48-528.md
+jan. 15, 2024 11:40:24 FM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-15/r_compiler-error_11-40-24-253.md
+jan. 15, 2024 11:40:24 FM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-15/r_compiler-error_11-40-24-677.md
+jan. 15, 2024 11:40:31 FM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-15/r_compiler-error_11-40-31-238.md
+jan. 15, 2024 11:41:38 FM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-15/r_compiler-error_11-41-38-876.md
+jan. 15, 2024 11:41:40 FM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-15/r_compiler-error_11-41-40-958.md
+jan. 15, 2024 11:42:53 FM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-15/r_compiler-error_11-42-53-412.md
+2024.01.15 11:42:53 WARN  no build target for: /Users/axellangenskiold/Documents/personal-projects/wordle/app/src/main/java/wordle/Key.java[0m
+jan. 15, 2024 11:42:54 FM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-15/r_compiler-error_11-42-54-008.md
+jan. 15, 2024 11:42:54 FM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-15/r_compiler-error_11-42-54-599.md
+jan. 15, 2024 11:42:57 FM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-15/r_compiler-error_11-42-57-390.md
+jan. 15, 2024 11:43:07 FM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-15/r_compiler-error_11-43-07-606.md
+jan. 15, 2024 11:43:17 FM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-15/r_compiler-error_11-43-17-587.md
+jan. 16, 2024 8:10:15 EM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-16/r_compiler-error_20-10-15-329.md
+2024.01.16 20:12:35 INFO  Shutting down server[0m
+2024.01.16 20:12:35 INFO  shutting down Metals[0m
+2024.01.16 20:12:35 INFO  Exiting server[0m
+2024.01.17 17:35:21 INFO  Started: Metals version 1.2.0 in folders '/Users/axellangenskiold/Documents/personal-projects/wordle' for client Visual Studio Code 1.85.1.[0m
+2024.01.17 17:35:23 WARN  Build server is not auto-connectable.[0m
+2024.01.17 17:35:23 WARN  no build target for: /Users/axellangenskiold/Documents/personal-projects/wordle/app/src/main/java/wordle/GUI.java[0m
+2024.01.17 17:35:24 INFO  time: code lens generation in 1.43s[0m
+2024.01.17 17:35:30 INFO  no build target found for /Users/axellangenskiold/Documents/personal-projects/wordle/app/src/main/java/wordle/GUI.java. Using presentation compiler with project's scala-library version: 3.3.1[0m
+jan. 17, 2024 5:35:31 EM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+jan. 17, 2024 5:35:31 EM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10
+jan. 17, 2024 5:35:32 EM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-17/r_compiler-error_17-35-32-740.md
+jan. 17, 2024 5:35:33 EM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-17/r_compiler-error_17-35-33-657.md
+jan. 17, 2024 5:35:38 EM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-17/r_compiler-error_17-35-38-365.md
+jan. 17, 2024 5:35:40 EM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-17/r_compiler-error_17-35-40-656.md
+jan. 17, 2024 5:35:43 EM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-17/r_compiler-error_17-35-43-934.md
+jan. 17, 2024 5:35:49 EM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-17/r_compiler-error_17-35-49-220.md
+jan. 17, 2024 5:36:22 EM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-17/r_compiler-error_17-36-22-245.md
+jan. 17, 2024 5:36:28 EM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-17/r_compiler-error_17-36-28-077.md
+jan. 17, 2024 5:36:28 EM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-17/r_compiler-error_17-36-28-411.md
+jan. 17, 2024 5:36:33 EM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-17/r_compiler-error_17-36-33-938.md
+jan. 17, 2024 5:36:34 EM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-17/r_compiler-error_17-36-34-907.md
+jan. 17, 2024 5:36:35 EM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-17/r_compiler-error_17-36-35-191.md
+jan. 17, 2024 5:36:38 EM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-17/r_compiler-error_17-36-38-198.md
+jan. 17, 2024 5:36:38 EM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-17/r_compiler-error_17-36-38-488.md
+jan. 17, 2024 5:36:42 EM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-17/r_compiler-error_17-36-42-479.md
+jan. 18, 2024 9:21:14 FM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-18/r_compiler-error_09-21-14-009.md
+jan. 18, 2024 9:23:08 FM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-18/r_compiler-error_09-23-08-434.md
+jan. 18, 2024 9:23:08 FM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-18/r_compiler-error_09-23-08-961.md
+jan. 18, 2024 9:23:11 FM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-18/r_compiler-error_09-23-11-368.md
+2024.01.18 11:50:26 INFO  Shutting down server[0m
+2024.01.18 11:50:26 INFO  shutting down Metals[0m
+2024.01.18 11:50:26 INFO  Exiting server[0m
+2024.01.18 12:10:30 INFO  Started: Metals version 1.2.0 in folders '/Users/axellangenskiold/Documents/personal-projects/wordle' for client Visual Studio Code 1.85.1.
+jan. 18, 2024 12:10:32 EM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4
+2024.01.18 12:10:35 WARN  Build server is not auto-connectable.
+2024.01.18 12:10:35 WARN  no build target for: /Users/axellangenskiold/Documents/personal-projects/wordle/app/src/main/java/wordle/GUI.java
+2024.01.18 12:10:38 INFO  time: code lens generation in 3.27s
+2024.01.18 12:10:43 INFO  no build target found for /Users/axellangenskiold/Documents/personal-projects/wordle/app/src/main/java/wordle/GUI.java. Using presentation compiler with project's scala-library version: 3.3.1
+jan. 18, 2024 12:10:45 EM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-18/r_compiler-error_12-10-45-687.md
+jan. 21, 2024 5:22:55 EM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-21/r_compiler-error_17-22-55-548.md
+2024.01.21 17:22:56 INFO  Shutting down server
+2024.01.21 17:22:56 INFO  shutting down Metals
+2024.01.21 17:22:56 INFO  Exiting server
+2024.01.21 17:22:57 ERROR Unexpected error initializing server: 
+org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequest failed with message: Canceled
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:209)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:193)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.01.22 13:45:50 INFO  Started: Metals version 1.2.0 in folders '/Users/axellangenskiold/Documents/personal-projects/wordle' for client Visual Studio Code 1.85.1.[0m
+2024.01.22 13:45:53 WARN  Build server is not auto-connectable.[0m
+2024.01.22 13:45:53 WARN  no build target for: /Users/axellangenskiold/Documents/personal-projects/wordle/app/src/main/java/wordle/KeyBoardPanel.java[0m
+2024.01.22 13:45:53 WARN  no build target for: /Users/axellangenskiold/Documents/personal-projects/wordle/app/src/main/java/wordle/WordlePanel.java[0m
+2024.01.22 13:45:53 WARN  no build target for: /Users/axellangenskiold/Documents/personal-projects/wordle/app/src/main/java/wordle/GUI.java[0m
+2024.01.22 13:45:56 INFO  time: code lens generation in 3.53s[0m
+2024.01.22 13:45:57 INFO  time: code lens generation in 4s[0m
+2024.01.22 13:45:57 WARN  no build target for: /Users/axellangenskiold/Documents/personal-projects/wordle/app/src/main/java/wordle/Box.java[0m
+2024.01.22 13:45:59 WARN  no build target for: /Users/axellangenskiold/Documents/personal-projects/wordle/app/src/main/java/wordle/MessegeBar.java[0m
+2024.01.22 13:46:02 INFO  no build target found for /Users/axellangenskiold/Documents/personal-projects/wordle/app/src/main/java/wordle/KeyBoardPanel.java. Using presentation compiler with project's scala-library version: 3.3.1[0m
+jan. 22, 2024 1:46:04 EM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-22/r_compiler-error_13-46-04-585.md
+jan. 22, 2024 1:46:05 EM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-22/r_compiler-error_13-46-05-032.md
+jan. 22, 2024 1:46:05 EM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-22/r_compiler-error_13-46-05-325.md
+jan. 22, 2024 1:46:05 EM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-22/r_compiler-error_13-46-05-762.md
+jan. 22, 2024 1:46:06 EM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-22/r_compiler-error_13-46-06-050.md
+jan. 22, 2024 1:46:06 EM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-22/r_compiler-error_13-46-06-254.md
+jan. 22, 2024 1:46:10 EM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-22/r_compiler-error_13-46-10-486.md
+jan. 22, 2024 1:46:21 EM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-22/r_compiler-error_13-46-21-147.md
+jan. 22, 2024 1:46:26 EM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-22/r_compiler-error_13-46-26-092.md
+jan. 22, 2024 1:46:28 EM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-01-22/r_compiler-error_13-46-28-089.md
+2024.01.23 09:16:14 INFO  Shutting down server[0m
+2024.01.23 09:16:14 INFO  shutting down Metals[0m
+2024.01.23 09:16:14 INFO  Exiting server[0m
+2024.01.23 09:16:14 ERROR Unexpected error initializing server: 
+org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequest failed with message: Canceled
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:209)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:193)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+[0m
+2024.02.16 13:49:09 INFO  Started: Metals version 1.2.2 in folders '/Users/axellangenskiold/Documents/personal-projects/wordle' for client Visual Studio Code 1.85.1.[0m
+Could not download using Maven: java.lang.RuntimeException: java.io.IOException: Cannot run program "mvn": error=2, No such file or directory
+Downloading https://repo1.maven.org/maven2/com/h2database/h2/2.1.214/h2-2.1.214.jar
+2024.02.16 13:49:10 INFO  Upgraded H2 database.[0m
+13:49:10.756 [pool-1-thread-1] INFO org.flywaydb.core.internal.license.VersionPrinter -- Flyway Community Edition 9.22.3 by Redgate
+13:49:10.758 [pool-1-thread-1] INFO org.flywaydb.core.internal.license.VersionPrinter -- See release notes here: https://rd.gt/416ObMi
+13:49:10.759 [pool-1-thread-1] INFO org.flywaydb.core.internal.license.VersionPrinter -- 
+13:49:10.762 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner -- Scanning for classpath resources at 'classpath:db/callback' ...
+13:49:10.762 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner -- Determining location urls for classpath:db/callback using ClassLoader jdk.internal.loader.ClassLoaders$AppClassLoader@42110406 ...
+13:49:10.762 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner -- Unable to resolve location classpath:db/callback.
+13:49:10.763 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner -- Scanning for classpath resources at 'classpath:db/migration' ...
+13:49:10.763 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner -- Determining location urls for classpath:db/migration using ClassLoader jdk.internal.loader.ClassLoaders$AppClassLoader@42110406 ...
+13:49:10.766 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner -- Scanning URL: jar:file:/Users/axellangenskiold/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalameta/metals_2.13/1.2.2/metals_2.13-1.2.2.jar!/db/migration
+13:49:10.768 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner -- Found resource: db/migration/
+13:49:10.769 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner -- Found resource: db/migration/V1__Create_tables.sql
+13:49:10.769 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner -- Found resource: db/migration/V2__Server_discovery.sql
+13:49:10.769 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner -- Found resource: db/migration/V3__Jar_symbols.sql
+13:49:10.769 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner -- Found resource: db/migration/V4__Fingerprints.sql
+13:49:10.769 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.scanner.classpath.ClassPathScanner -- Scanning for classes at classpath:db/migration
+13:49:10.770 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.scanner.Scanner -- Filtering out resource: db/migration/ (filename: )
+13:49:10.771 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.resource.ResourceNameValidator -- Validating V2__Server_discovery.sql
+13:49:10.772 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.resource.ResourceNameValidator -- Validating V4__Fingerprints.sql
+13:49:10.773 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.resource.ResourceNameValidator -- Validating V3__Jar_symbols.sql
+13:49:10.773 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.resource.ResourceNameValidator -- Validating V1__Create_tables.sql
+13:49:10.862 [pool-1-thread-1] INFO org.flywaydb.core.FlywayExecutor -- Database: jdbc:h2:file:/Users/axellangenskiold/Documents/personal-projects/wordle/.metals/metals (H2 2.2)
+13:49:10.862 [pool-1-thread-1] DEBUG org.flywaydb.core.FlywayExecutor -- Driver: H2 JDBC Driver 2.2.224 (2023-09-17)
+13:49:10.862 [pool-1-thread-1] DEBUG org.flywaydb.core.FlywayExecutor -- DDL Transactions Supported: false
+13:49:10.863 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.schemahistory.SchemaHistoryFactory -- Schemas: 
+13:49:10.863 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.schemahistory.SchemaHistoryFactory -- Default schema: null
+13:49:10.868 [pool-1-thread-1] WARN org.flywaydb.core.internal.database.base.Database -- Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+13:49:10.869 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.callback.SqlScriptCallbackFactory -- Scanning for SQL callbacks ...
+13:49:10.869 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.scanner.Scanner -- Filtering out resource: db/migration/ (filename: )
+13:49:10.875 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.command.DbValidate -- Validating migrations ...
+13:49:10.877 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.scanner.Scanner -- Filtering out resource: db/migration/ (filename: )
+13:49:10.882 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.scanner.Scanner -- Filtering out resource: db/migration/V2__Server_discovery.sql (filename: V2__Server_discovery.sql)
+13:49:10.882 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.scanner.Scanner -- Filtering out resource: db/migration/V4__Fingerprints.sql (filename: V4__Fingerprints.sql)
+13:49:10.882 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.scanner.Scanner -- Filtering out resource: db/migration/ (filename: )
+13:49:10.882 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.scanner.Scanner -- Filtering out resource: db/migration/V3__Jar_symbols.sql (filename: V3__Jar_symbols.sql)
+13:49:10.882 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.scanner.Scanner -- Filtering out resource: db/migration/V1__Create_tables.sql (filename: V1__Create_tables.sql)
+13:49:10.882 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.scanner.Scanner -- Filtering out resource: db/migration/V2__Server_discovery.sql (filename: V2__Server_discovery.sql)
+13:49:10.882 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.scanner.Scanner -- Filtering out resource: db/migration/V4__Fingerprints.sql (filename: V4__Fingerprints.sql)
+13:49:10.882 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.scanner.Scanner -- Filtering out resource: db/migration/ (filename: )
+13:49:10.882 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.scanner.Scanner -- Filtering out resource: db/migration/V3__Jar_symbols.sql (filename: V3__Jar_symbols.sql)
+13:49:10.882 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.scanner.Scanner -- Filtering out resource: db/migration/V1__Create_tables.sql (filename: V1__Create_tables.sql)
+13:49:10.891 [pool-1-thread-1] INFO org.flywaydb.core.internal.command.DbValidate -- Successfully validated 4 migrations (execution time 00:00.015s)
+13:49:10.895 [pool-1-thread-1] DEBUG org.flywaydb.core.internal.command.DbSchemas -- Skipping creation of existing schema: "PUBLIC"
+13:49:10.900 [pool-1-thread-1] INFO org.flywaydb.core.internal.command.DbMigrate -- Current version of schema "PUBLIC": 4
+13:49:10.904 [pool-1-thread-1] INFO org.flywaydb.core.internal.command.DbMigrate -- Schema "PUBLIC" is up to date. No migration necessary.
+13:49:10.915 [pool-1-thread-1] DEBUG org.flywaydb.core.FlywayExecutor -- Memory usage: 81 of 100M
+feb. 16, 2024 1:49:11 EM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+feb. 16, 2024 1:49:11 EM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2024.02.16 13:49:21 INFO  no build target found for /Users/axellangenskiold/Documents/personal-projects/wordle/app/src/main/java/wordle/GUI.java. Using presentation compiler with project's scala-library version: 3.3.1[0m
+feb. 16, 2024 1:49:22 EM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-02-16/r_compiler-error_13-49-22-952.md
+feb. 16, 2024 1:50:35 EM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-02-16/r_compiler-error_13-50-35-504.md
+feb. 16, 2024 1:50:38 EM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-02-16/r_compiler-error_13-50-38-867.md
+feb. 16, 2024 1:50:40 EM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/axellangenskiold/Documents/personal-projects/wordle/.metals/.reports/metals-full/2024-02-16/r_compiler-error_13-50-40-361.md
+2024.02.16 13:54:17 INFO  Shutting down server[0m
+2024.02.16 13:54:17 INFO  shutting down Metals[0m
+2024.02.16 13:54:17 INFO  Exiting server[0m
